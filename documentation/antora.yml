@@ -1,0 +1,7 @@
+name: "main"
+title: LAB - OpenShift Virtualization
+version: ~
+nav:
+  - modules/ROOT/nav.adoc
+
+start_page: ROOT:index.adoc
